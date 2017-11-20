@@ -97,9 +97,6 @@
         <child id="1197027771414" name="operand" index="2Oq$k0" />
         <child id="1197027833540" name="operation" index="2OqNvi" />
       </concept>
-      <concept id="1197029447546" name="jetbrains.mps.baseLanguage.structure.FieldReferenceOperation" flags="nn" index="2OwXpG">
-        <reference id="1197029500499" name="fieldDeclaration" index="2Oxat5" />
-      </concept>
       <concept id="1145552977093" name="jetbrains.mps.baseLanguage.structure.GenericNewExpression" flags="nn" index="2ShNRf">
         <child id="1145553007750" name="creator" index="2ShVmc" />
       </concept>
@@ -343,8 +340,8 @@
       <property role="od$2w" value="false" />
       <node concept="3clFbS" id="3wNEXTnZyFC" role="3clF47">
         <node concept="3cpWs6" id="3wNEXTnZyFD" role="3cqZAp">
-          <node concept="37vLTw" id="3wNEXTnZyFE" role="3cqZAk">
-            <ref role="3cqZAo" to="u42p:1t_LRy89$2y" resolve="myResultString" />
+          <node concept="1rXfSq" id="6b35i5GAJf8" role="3cqZAk">
+            <ref role="37wK5l" to="u42p:6RbC5nR7fVD" resolve="getResultValue" />
           </node>
         </node>
       </node>
@@ -495,8 +492,8 @@
             <node concept="37vLTw" id="3wNEXTnZyGI" role="2Oq$k0">
               <ref role="3cqZAo" node="3wNEXTnZyGm" resolve="dialog" />
             </node>
-            <node concept="2OwXpG" id="3wNEXTnZyGK" role="2OqNvi">
-              <ref role="2Oxat5" to="u42p:1t_LRy89$2y" resolve="myResultString" />
+            <node concept="liA8E" id="6b35i5GAJbn" role="2OqNvi">
+              <ref role="37wK5l" to="u42p:6RbC5nR7fVD" resolve="getResultValue" />
             </node>
           </node>
         </node>

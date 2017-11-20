@@ -247,11 +247,6 @@
         <child id="3078666699043039389" name="commentedNode" index="8Wnug" />
       </concept>
     </language>
-    <language id="f8f68d92-c6d2-44b3-8d63-c00ade75ec86" name="Documentation_Latex">
-      <concept id="4457500422381350412" name="Documentation_Latex.structure.LatexDocument" flags="ng" index="1jVps8">
-        <property id="4457500422381350415" name="documentClass" index="1jVpsb" />
-      </concept>
-    </language>
     <language id="83888646-71ce-4f1c-9c53-c54016f6ad4f" name="jetbrains.mps.baseLanguage.collections">
       <concept id="540871147943773365" name="jetbrains.mps.baseLanguage.collections.structure.SingleArgumentSequenceOperation" flags="nn" index="25WWJ4">
         <child id="540871147943773366" name="argument" index="25WWJ7" />
@@ -1663,10 +1658,6 @@
     <node concept="2tJIrI" id="1M8184I9eAG" role="jymVt" />
   </node>
   <node concept="2DaZZR" id="1M8184I9qg$" />
-  <node concept="1jVps8" id="1M8184I9uRt">
-    <property role="TrG5h" value="entwurf.txt" />
-    <property role="1jVpsb" value="scrreprt" />
-  </node>
   <node concept="sE7Ow" id="3LA7Yl1fzfX">
     <property role="TrG5h" value="Import Latex Includable" />
     <property role="2uzpH1" value="Import LaTeX Includable" />

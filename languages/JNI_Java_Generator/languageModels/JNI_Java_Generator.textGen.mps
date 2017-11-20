@@ -2,8 +2,7 @@
 <model ref="r:05cf867a-4953-4c8b-9881-b4cbaa153cec(JNI_Java_Generator.textGen)">
   <persistence version="9" />
   <languages>
-    <use id="b83431fe-5c8f-40bc-8a36-65e25f4dd253" name="jetbrains.mps.lang.textGen" version="0" />
-    <devkit ref="2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)" />
+    <devkit ref="fa73d85a-ac7f-447b-846c-fcdc41caa600(jetbrains.mps.devkit.aspect.textgen)" />
   </languages>
   <imports>
     <import index="qtm6" ref="r:eb81b1ef-5456-439d-b5d6-bddb1919d9c7(JNI_Java_Generator.structure)" implicit="true" />
