@@ -1,0 +1,10 @@
+*~
+**/classes_gen/
+**/source_gen.caches/
+**/source_gen/
+**/test_gen.caches/
+**/test_gen/
+.mps/vcs.xml
+.mps/workspace.xml
+/build
+*.aux

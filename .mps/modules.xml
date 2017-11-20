@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/C_Lib_Generator/C_Lib_Generator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/C_Syntax/C_Syntax.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/IoT_API/IoT_API.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/IoT_API/runtime/Platform.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/JNI_C_Generator/JNI_C_Generator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/JNI_Java_Generator/JNI_Java_Generator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/XML_Generator/XML_Generator.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.doc.latex/Latex.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/xml/de.kontext_e.xml.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/C_Lib/C_Lib.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/GOLApi/GOLApi.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JNI_C/JNI_C.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JNI_Java/JNI_Java.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
